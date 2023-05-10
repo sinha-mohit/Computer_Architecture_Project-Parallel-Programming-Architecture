@@ -1,4 +1,4 @@
-# Computer_Architecture_Project-Parallel-Programming-Architecture
+## ➔ Parallel Programming Architecture :
 
 Design and Implementation of different
 parallel Network Architectures (Linear Ring, Hypercube) to improve computational
